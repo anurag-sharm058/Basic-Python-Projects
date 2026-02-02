@@ -18,12 +18,7 @@ These projects are beginner-friendly and focus on logic building and visualizati
 - File-handling
 ---
 
-## How to Run
-1. Make sure Python is installed  
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
----
-
 **Screenshot**
-![Project Demo](Image/snake_game.png)
+<p align="center">
+  <img src="Images/demo.png"/>
+</p>
